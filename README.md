@@ -118,13 +118,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 ## 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoSilva777&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+ <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=LeonardoSilva777&show_icons=true&bg_color=00000000"
   />
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSilva777&layout=compact&theme=tokyonight)
 
 
 </p>
