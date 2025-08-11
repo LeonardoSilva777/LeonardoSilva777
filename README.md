@@ -2,7 +2,7 @@
 
 **Desenvolvedor Back-End**
 
-Me chamo Leonardo Pereira da Silva, tenho 19 anos e sou da Zona leste de São Paulo. Conclui o meu ensino medio tecnico no instituto Centro Paula Souza (ETEC) em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciencia da computação na USJT - Universidade São Judas Tadeu. Agora estou me dedicando cada vez mais para entrar na area de Ciber Segurança.
+Me chamo Leonardo Pereira da Silva, tenho 19 anos e sou da Zona leste de São Paulo. Conclui o meu ensino medio tecnico no instituto Centro Paula Souza (ETEC) em Desenvolvimento de Sistemas. Atualmente, estou cursando Ciencia da computação na USJT - Universidade São Judas Tadeu E sou aluno do Instituto PROA da turma de Java. Agora estou me dedicando cada vez mais para entrar na area.
 
 
 <p align="left">
