@@ -70,4 +70,4 @@
 
 ---
 
-⭐ **Se gostou do meu perfil ou projetos, deixe uma estrela nos repositórios!**
+
