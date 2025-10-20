@@ -12,7 +12,7 @@
 ### 🚀 Sobre mim  
 - 🏙️ Moro na Zona Leste de São Paulo  
 - 🎓 Concluí o ensino médio técnico no Instituto Centro Paula Souza (ETEC) em **Desenvolvimento de Sistemas**  
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas – Universidade São Judas Tadeu**  
+- 🎓 Atualmente cursando **Ciencia da computação – Universidade São Judas Tadeu**  
 - 🎓 Estudante do **Instituto PROA** na turma de **Full Stack Java**  
 - 🌱 Sempre explorando novas tecnologias e boas práticas de programação  
 - 🎯 Buscando minha primeira oportunidade na área de tecnologia  
